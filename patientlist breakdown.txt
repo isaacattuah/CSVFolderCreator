@@ -1,6 +1,6 @@
 *PROGRAM THAT MAKES FOLDERS WITH NAME FROM SPREADSHEETS*
 
 1. Read .csv with patientlist.py
-2. Store each entry in an array/dictionary/list 
+2. Store each entry in an array 
 3. Iterate through array elements
 4. For each iteration, create a folder with the element name.

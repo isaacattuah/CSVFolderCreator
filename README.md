@@ -1,5 +1,5 @@
 # CSV Folder Creator
-A program that creates folders based on names provided in a CSV file
+A program that creates folders based on names provided in a .csv file
 
 ## How It Works 
 

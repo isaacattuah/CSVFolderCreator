@@ -20,7 +20,7 @@ def createFolder(directory):
 
 # Example
 patients = []
-csvReader('patientlist.csv',patients)
+csvReader('test.csv',patients)
 for patient in range(len(patients)):
     createFolder('./%s/'%(patients[patient])) 
 # Creates a folder in the current directory called data
